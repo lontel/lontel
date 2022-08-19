@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**lontel/lontel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🌱 Here you can find my work during the bootcamp and the projects I work on:
 
-Here are some ideas to get you started:
+* My first game project using canvas technology
+https://lontel.github.io/first_game_project/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* A web app that makes it easy to find the best destinations for digital nomads
+https://go-no-mad.herokuapp.com/
+
+* A full stack MERN single page app for bike lovers
+https://bike-connect.netlify.app/
+
+
+ 🔭 I’m currently working on an ecomerce project:
+ * https://github.com/lontel/tech-store-server
+ * https://github.com/lontel/tech-store-client
+
+- 📫 How to reach me:
+📧 lonte_leon@outlook.com
+💬 www.linkedin.com/in/leon-alexandru-lonte
