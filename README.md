@@ -18,4 +18,4 @@ https://bike-connect.netlify.app/
 
 - 📫 How to reach me:
 📧 lonte_leon@outlook.com
-💬 www.linkedin.com/in/leon-alexandru-lonte
+💬 www.linkedin.com/in/leon-alexandru-lonte-full-stack-developer/
