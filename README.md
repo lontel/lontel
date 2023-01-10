@@ -12,7 +12,7 @@ https://go-no-mad.herokuapp.com/
 https://bike-connect.netlify.app/
 
 
- 🔭 I’m currently working on an ecomerce project:
+ 🔭 I’m currently working on an e-commerce project:
  * https://github.com/lontel/Ecomerce-server
  * https://github.com/lontel/Ecomerce-client
 
