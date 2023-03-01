@@ -13,8 +13,7 @@ https://bike-connect.netlify.app/
 
 
  🔭 I’m currently working on an e-commerce project:
-https://app.netlify.com/sites/store-house/overview
-
+ https://tech-house.netlify.app/
 - 📫 How to reach me:
 📧 lonte_leon@outlook.com
 💬 www.linkedin.com/in/leon-alexandru-lonte-full-stack-developer/
