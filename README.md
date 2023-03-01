@@ -13,8 +13,7 @@ https://bike-connect.netlify.app/
 
 
  🔭 I’m currently working on an e-commerce project:
- * https://github.com/lontel/Ecomerce-server
- * https://github.com/lontel/Ecomerce-client
+https://app.netlify.com/sites/store-house/overview
 
 - 📫 How to reach me:
 📧 lonte_leon@outlook.com
